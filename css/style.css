@@ -16,197 +16,202 @@
 
 [class^="wh"]{
     color: white;
+    position: absolute;
 }
 
 .wh-tower1{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     left: 65px;
 }
 
 .wh-tower2{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     right: 65px;
 }
 
 .wh-horse1{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     right: 155px;
 }
 
 .wh-horse2{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     left: 145px;
 }
 
 .wh-oficer1{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     left: 230px;
 }
 
 .wh-oficer2{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     right: 235px;
 }
 
 .wh-rook{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     left: 315px;
 }
 
 .wh-king{
-    position: absolute;
+/*    position: absolute;*/
     top: 50px;
     right: 320px;
 }
 
 
 .wh-pawn1{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
     right: 65px;
 }
 
 .wh-pawn2{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
     right: 150px;
 }
 
 .wh-pawn3{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
     right: 235px;
 }
 
 .wh-pawn4{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
     right: 320px;
 }
 
 .wh-pawn5{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
     left: 63px;
 }
 
 .wh-pawn6{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
-    left: 150px;
+    left: 147px;
 }
 
 .wh-pawn7{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
     left: 230px;
 }
 
 .wh-pawn8{
-    position: absolute;
+/*    position: absolute;*/
     top: 130px;
     left: 315px;
 }
 
-.bl-tower1{
+[class^="bl"]{
     position: absolute;
+}
+
+.bl-tower1{
+/*    position: absolute;*/
     bottom: 55px;
     right: 63px;
 }
 
 .bl-tower2{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 55px;
     left: 63px;
 }
 
 .bl-horse1{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 55px;
     left: 145px;
 }
 
 .bl-horse2{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 55px;
     right: 150px;
 }
 
 .bl-oficer1{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 55px;
     right: 232px;
 }
 
 .bl-oficer2{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 55px;
     left: 232px;
 }
 
 .bl-rook{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 55px;
     left: 317px;
 }
 
 .bl-king{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 55px;
     right: 317px;
 }
 
 .bl-pawn1{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     right: 63px;
 }
 
 .bl-pawn2{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     right: 150px;
 }
 
 .bl-pawn3{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     right: 235px;
 }
 
 .bl-pawn4{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     right: 317px;
 }
 
 .bl-pawn5{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     left: 63px;
 }
 
 .bl-pawn6{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     left: 150px;
 }
 
 .bl-pawn7{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     left: 235px;
 }
 
 .bl-pawn8{
-    position: absolute;
+/*    position: absolute;*/
     bottom: 140px;
     left: 317px;
 }
